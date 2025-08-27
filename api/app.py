@@ -14,7 +14,7 @@ app = FastAPI(
     description="A simple API server",
 )
 
-
+ 
 model = ChatOllama(
     model="gemma3:1b",
     temperature=0.1,
