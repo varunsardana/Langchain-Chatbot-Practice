@@ -11,3 +11,8 @@ httpx==0.27.2
 uvicorn==0.30.6
 python-dotenv
 streamlit
+bs4
+pypdf
+chromadb
+faiss-cpu
+LanceDB

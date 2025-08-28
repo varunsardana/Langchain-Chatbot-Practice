@@ -23,7 +23,6 @@ model = ChatOllama(
     num_predict=256,
 )
 
-# prompt
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a concise, helpful assistant."),
     ("user", "Question: {question}")
