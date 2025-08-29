@@ -16,3 +16,6 @@ pypdf
 chromadb
 faiss-cpu
 LanceDB
+wikipedia
+arxiv
+langchainhub 
